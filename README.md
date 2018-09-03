@@ -1,2 +1,2 @@
 # Watchable-or-Not
-A deep learning based movie recommender system
+A Restricted Boltzmann machine based movie recommender system using PyTorch.
