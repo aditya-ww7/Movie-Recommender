@@ -1,4 +1,4 @@
-# Watchable-or-Not
+# Movie-Recommender
 A Restricted Boltzmann machine based movie recommender system using PyTorch.
 
 Predicting whether a user will like a movie or not, using unsupervised learning (RBZ).
